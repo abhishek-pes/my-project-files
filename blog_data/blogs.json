@@ -1,0 +1,24 @@
+[
+    {
+        "date":"21.04.2023",
+        "blog_title":"Blog Title-1",
+        "blog_desc":"Blog Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "blog_link":"https://raw.githubusercontent.com/abhishek-pes/Hotel_Management_App/master/README.md",
+        "blog_route":"my-first-blog"
+    },
+    {
+        "date":"22.04.2023",
+        "blog_title":"Blog Title-2",
+        "blog_desc":"Blog Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "blog_link":"https://raw.githubusercontent.com/joshianirudh/LexiconPrime/main/README.md",
+        "blog_route":"my-second-blog"
+    },
+    {
+        "date":"23.04.2023",
+        "blog_title":"Blog Title-3",
+        "blog_desc":"Blog Description Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum",
+        "blog_link":"http://localhost:5501/blog_data/blogs/blog_2.md",
+        "blog_route":"my-second-blog"
+    }
+
+]
