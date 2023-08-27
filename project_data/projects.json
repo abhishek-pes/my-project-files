@@ -9,21 +9,21 @@
     {
         "date":"Dec 6, 2021",
         "project_title":"Data Analysis on Amazon Product Listing",
-        "project_desc":"Created a multi-class classifier model , which will help to classify products based on the product description given. This is intended to improve the overall search and user experience while searching for any product on an ecommerce website like Amazon.",
+        "project_desc":"Created a multi-class classifier model , which will help to classify products based on the product description given.",
         "github_link":"https://github.com/abhishek-pes/DA-Project-Amazon-product-listing",
         "blog_link":"https://raw.githubusercontent.com/abhishek-pes/DA-Project-Amazon-product-listing/main/README.md"
     },
     {
         "date":"Jan 8 2022",
         "project_title":"Email spam classifier with Pyspark",
-        "project_desc":"Spam detection is a supervised machine learning problem.The dataset chosen had 30000 rows.The data was recieved in streams, the framework used for receiving and pre processing the data for training is Pyspark.",
+        "project_desc":"Spam detection is a supervised machine learning problem. The data was recieved in streams, the framework used is Pyspark.",
         "github_link":"https://github.com/abhishek-pes/Email_Spam_Classifier",
         "blog_link":"https://raw.githubusercontent.com/abhishek-pes/Email_Spam_Classifier/main/Readme.md"
     },
     {
         "date":"Apr 21, 2022",
         "project_title":"Hotel Management app using JAVA Spring boot",
-        "project_desc":"Hotel management system manages and maintains the records of customers, rooms and employees in the hotel. This system is aimed to maintain the day-to-day state of admission of residents, record of employees, room details and availability.This app was built with spring boot framework and MySQL database",
+        "project_desc":"Hotel management system manages and maintains the records of customers, rooms and employees in the hotel. This app was built with spring boot framework and MySQL database",
         "github_link":"https://github.com/abhishek-pes/Hotel_Management_App",
         "blog_link":"https://raw.githubusercontent.com/abhishek-pes/Hotel_Management_App/master/README.md"
     }
